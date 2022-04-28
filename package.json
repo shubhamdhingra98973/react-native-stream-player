@@ -1,6 +1,6 @@
 {
   "name": "react-native-stream-player",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Play audio stream and audio files in ReactNative on iOS/Android",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,7 +10,10 @@
     "sound",
     "player",
     "audio",
-    "streaming"
+    "streaming",
+	"icecast",
+	"millicast",
+	"showcast"
   ],
   "repository": {
     "type": "git",
